@@ -2,7 +2,7 @@
 
 ## Welcome to Metric Coders Model Mania!
 
-Dive into the world of algorithms, matrices, and pixel magic with Model Mania - your go-to repository for free, downloadable machine learning models. Unleash the power of code and data, and embark on a journey to transform your projects with cutting-edge models that speak the language of innovation.
+Dive into the world of algorithms, matrices, and pixel magic with Metric Coders Model Mania - your go-to repository for free, downloadable machine learning models. Unleash the power of code and data, and embark on a journey to transform your projects with cutting-edge models that speak the language of innovation.
 
 ## 🚀 About Metric Coders Model Mania
 
