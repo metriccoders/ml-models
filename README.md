@@ -6,7 +6,7 @@ Dive into the world of algorithms, matrices, and pixel magic with Model Mania - 
 
 ## 🚀 About Metric Coders Model Mania
 
-Metric Coders Model Mania is a treasure trove of pre-trained machine learning models, crafted by nerds for nerds. Whether you're a seasoned data wizard or just dipping your toes into the binary ocean, this repository is your gateway to a universe of possibilities.
+Metric Coders Model Mania is a treasure trove of pre-trained machine learning models, crafted by Metric Coders Team. Whether you're a seasoned data wizard or just dipping your toes into the binary ocean, this repository is your gateway to a universe of possibilities.
 
 ## 🤖 Models Galore
 
