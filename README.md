@@ -1,4 +1,4 @@
-# Project: "Metric Coders Model Mania: Where Nerds Meet Numbers"
+# Metric Coders Model Mania: Where Nerds Meet Numbers
 
 ## Welcome to Metric Coders Model Mania!
 
