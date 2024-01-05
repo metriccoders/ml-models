@@ -1,0 +1,1 @@
+Dataset: IRIS, Accuracy:0.8666666666666667, Estimators:104, Learning Rate:0.07973275384337586, Algorithm:SAMME.R
