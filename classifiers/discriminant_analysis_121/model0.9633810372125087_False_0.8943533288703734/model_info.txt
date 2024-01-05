@@ -1,0 +1,1 @@
+Dataset: IRIS, Accuracy:0.8333333333333334, Reg Param:0.9633810372125087, Store Covariance:False, Threshold:0.8943533288703734
