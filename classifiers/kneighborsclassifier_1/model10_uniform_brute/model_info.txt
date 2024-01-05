@@ -1,0 +1,1 @@
+Dataset: IRIS, Accuracy:0.9666666666666667, Neighbors:10, Weights:uniform, Algorithm:brute

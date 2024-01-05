@@ -1,0 +1,1 @@
+Dataset: IRIS, Accuracy:1.0, Neighbors:3, Weights:distance, Algorithm:kd_tree
