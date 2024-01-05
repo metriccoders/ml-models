@@ -1,1 +1,0 @@
-Dataset: IRIS, Accuracy:1.0, Estimator:67, Criterion:gini, Max Depth:9
