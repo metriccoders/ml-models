@@ -1,0 +1,1 @@
+Dataset: IRIS, Accuracy:1.0, Estimator:80, Criterion:entropy, Max Depth:3

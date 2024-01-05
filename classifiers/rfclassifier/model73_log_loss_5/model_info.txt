@@ -1,0 +1,1 @@
+Dataset: IRIS, Accuracy:0.9666666666666667, Estimator:73, Criterion:log_loss, Max Depth:5
