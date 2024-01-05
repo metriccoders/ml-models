@@ -1,4 +1,4 @@
-# Metric Coders Model Mania: Where Nerds Meet Numbers
+# Metric Coders Model Mania: Where AI meets Tiny Models
 
 ## Welcome to Metric Coders Model Mania!
 
