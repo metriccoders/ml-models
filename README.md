@@ -29,7 +29,7 @@ pip install metriccoders_ml
 ```
 2. Select one of the files from ml-models repo. Use the Raw Github content URL. For e.g.,
 ```bash
-"https://github.com/metriccoders/ml-models/blob/main/classifiers/discriminant_analysis_109/model0.437902612044043_False_0.0029324921266509207/model.joblib"
+"https://raw.githubusercontent.com/metriccoders/ml-models/main/classifiers/adaboostclassifier_10/model64_0.32271997615954084_SAMME.R/model.joblib"
 ```
 
 OR
