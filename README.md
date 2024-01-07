@@ -19,6 +19,21 @@ From classifiers that can tell cats from dogs with a mere glance, to language mo
 
 ## 📦 Get Started
 
+- **Two ways to get started**: Install the Metric Coders PyPI Package or download the entire git repository.
+
+To get started with Metric Coders Model Loader, simply run:
+
+1. 
+```bash
+pip install awesome-ml-models
+```
+2. Select one of the files from ml-models repo. Use the Raw Github content URL. For e.g.,
+```bash
+"https://github.com/metriccoders/ml-models/blob/main/classifiers/discriminant_analysis_109/model0.437902612044043_False_0.0029324921266509207/model.joblib"
+```
+
+OR
+
 1. **Clone the Repository**:
 
 ```bash
@@ -34,6 +49,7 @@ git clone https://github.com/metriccoders/ml-models.git
 
    - Download the model and integrate it into your project.
    - Watch as your project ascends to new heights of awesomeness.
+
 
 ## 🌟 Contributions Welcome
 
