@@ -25,7 +25,7 @@ To get started with Metric Coders Model Loader, simply run:
 
 1. Install the PyPI package
 ```bash
-pip install awesome-ml-models
+pip install metriccoders_ml
 ```
 2. Select one of the files from ml-models repo. Use the Raw Github content URL. For e.g.,
 ```bash
