@@ -23,7 +23,7 @@ From classifiers that can tell cats from dogs with a mere glance, to language mo
 
 To get started with Metric Coders Model Loader, simply run:
 
-1. 
+1. Install the PyPI package
 ```bash
 pip install awesome-ml-models
 ```
